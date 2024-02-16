@@ -12,3 +12,4 @@ F:\ASP\CalcExample\CalcExample\obj\Debug\net6.0\refint\CalcExample.dll
 F:\ASP\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.pdb
 F:\ASP\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.genruntimeconfig.cache
 F:\ASP\CalcExample\CalcExample\obj\Debug\net6.0\ref\CalcExample.dll
+F:\ASP\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.sourcelink.json
